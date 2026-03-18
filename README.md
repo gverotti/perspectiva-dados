@@ -1,6 +1,7 @@
-# perspectiva-dados
-Repositório para atividades de Perspectiva em Ciencia de Dados
+# Perspectiva em Ciencia de Dados
 
-Alterar Read.me
+## Repositório para atividades de Perspectiva em Ciencia de Dados
+
+Meu primeiro commit
 
 Meu segundo commit
